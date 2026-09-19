@@ -29,4 +29,4 @@ An IoT-enabled multi-sensor surveillance robot designed for hazardous environmen
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/IoT-Military-Robot.git](https://github.com/your-username/IoT-Military-Robot.git)
+   git clone https://github.com/Akash-9-7/Robotic-Vehicle-for-Surveillance-Hazardous-Zone-Operations.git
